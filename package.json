@@ -9,8 +9,8 @@
   },
   "repository": "/mimikiki-studio",
   "scripts": {
-    "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "dev": "vuepress dev app",
+    "build": "vuepress build app"
   },
   "license": "MIT",
   "devDependencies": {
